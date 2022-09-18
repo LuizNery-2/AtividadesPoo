@@ -1,4 +1,4 @@
-package medicaoQualidadeAr;
+package exercicio02.medicaoQualidadeAr;
 
 public class MedicaoQualidadeAr {
 

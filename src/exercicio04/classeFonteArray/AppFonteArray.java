@@ -1,4 +1,4 @@
-package classeFonteArray;
+package exercicio04.classeFonteArray;
 
 import java.util.Scanner;
 

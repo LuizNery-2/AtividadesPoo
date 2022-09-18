@@ -1,4 +1,4 @@
-package FonteDagua;
+package exercicio01.FonteDagua;
 
 public class Fonte {
 	private String produto;

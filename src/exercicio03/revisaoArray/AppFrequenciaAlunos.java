@@ -1,4 +1,4 @@
-package revisaoArray;
+package exercicio03.revisaoArray;
 
 import java.util.Scanner;
 

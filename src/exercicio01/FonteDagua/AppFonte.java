@@ -1,4 +1,4 @@
-package FonteDagua;
+package exercicio01.FonteDagua;
 import java.util.Scanner;
 
 public class AppFonte {

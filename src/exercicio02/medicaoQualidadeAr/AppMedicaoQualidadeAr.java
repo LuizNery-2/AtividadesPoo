@@ -1,4 +1,4 @@
-package medicaoQualidadeAr;
+package exercicio02.medicaoQualidadeAr;
 
 import java.util.Scanner;
 

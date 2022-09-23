@@ -48,15 +48,14 @@ public class Fonte {
 		
 	}
 	
-	public void resgitrarEscoamento(int quantEscoada) {
+	public boolean registrarEscoamento(int quantEscoada) {
 		
-		if (quantEscoada >= estoque) {
-			estoque -= 0;
+		if (quantEscoada <= estoque) {
+			estoque += quantEscoada;
+			return true;
 		}
-		else {
-			estoque -= quantEscoada;
-		}
-		
+		return false;
+	
 		
 	}
 	

@@ -1,7 +1,7 @@
-package Exercicio06.Agregacao;
+package exercicio06.agregacao;
 
 public class Sepultamento {
-	
+
 	private int idSepultamento;
 	private String data;
 	private Corpo corpo;
@@ -43,7 +43,5 @@ public class Sepultamento {
 		tumulo.ocupar();
 		
 	}
-	
-	
 	
 }

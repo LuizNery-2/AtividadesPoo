@@ -1,4 +1,4 @@
-package Exercicio06.Agregacao;
+package exercicio06.agregacao;
 
 public class Corpo {
 
@@ -36,7 +36,5 @@ public class Corpo {
 		
 		situacao = "Exumado";
 		
-	}
-	
-	
+    }
 }

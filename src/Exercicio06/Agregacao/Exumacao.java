@@ -1,4 +1,4 @@
-package Exercicio06.Agregacao;
+package exercicio06.agregacao;
 
 public class Exumacao {
 	
@@ -34,8 +34,5 @@ public class Exumacao {
 		sepultamento.getTumulo().desocupar();
 		
 	}
-	
-	
-	
 	
 }

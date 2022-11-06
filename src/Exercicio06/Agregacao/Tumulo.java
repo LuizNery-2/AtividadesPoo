@@ -1,7 +1,6 @@
-package Exercicio06.Agregacao;
+package exercicio06.agregacao;
 
 public class Tumulo {
-	
 	private int idTumulo;
 	private String localizacao;
 	private boolean ocupado;
@@ -39,6 +38,4 @@ public class Tumulo {
 		
 	}
 	
-	
-
 }
